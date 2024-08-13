@@ -1,0 +1,79 @@
+
+body {
+  background: radial-gradient(circle, #1e277e, #100a3f);
+}
+
+.App {
+  text-align: center;
+  display: grid;
+  place-items: center;
+  font-family: 'Cascadia Code', monospace;
+  height: 100vh;
+  color: white;
+}
+
+.GameHeader {
+  width: 100vw;
+  display: flex;
+  justify-content: right;
+  color: white;
+  font-family: 'Cascadia Code', monospace;
+}
+
+.RulesImg {
+  height: 70vmin;
+  padding-top: 3%;
+}
+
+.PlayBtn {
+  font-size: 5vh;
+  color: white;
+  margin-bottom: 7vh;
+  padding-top: 2vh;
+  padding-bottom: 2vh;
+  padding-left: 5vw;
+  padding-right: 5vw;
+  border: 0px;
+  border-radius: 15px;
+  background-color: #140a3f41;
+  transition: background-color 0.3s;
+}
+
+.PlayBtn:hover {
+  background-color: #140a3f;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
