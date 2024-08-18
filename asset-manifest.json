@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/shifumi/static/css/main.6ed1a037.css",
+    "main.js": "/shifumi/static/js/main.327866ef.js",
+    "static/js/453.d85a0f69.chunk.js": "/shifumi/static/js/453.d85a0f69.chunk.js",
+    "static/media/rock-paper-scissors-game-rules.png": "/shifumi/static/media/rock-paper-scissors-game-rules.f3c062e28a1f150c1cf0.png",
+    "index.html": "/shifumi/index.html",
+    "main.6ed1a037.css.map": "/shifumi/static/css/main.6ed1a037.css.map",
+    "main.327866ef.js.map": "/shifumi/static/js/main.327866ef.js.map",
+    "453.d85a0f69.chunk.js.map": "/shifumi/static/js/453.d85a0f69.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ed1a037.css",
+    "static/js/main.327866ef.js"
+  ]
+}
